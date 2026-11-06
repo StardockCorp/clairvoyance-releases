@@ -1,6 +1,22 @@
 {
-  "latestVersion": null,
-  "releasedAt": null,
+  "latestVersion": "0.90.0",
+  "releasedAt": "2026-11-05T15:33:24.857Z",
   "minimumVersion": null,
-  "platforms": {}
+  "platforms": {
+    "windows-x64": {
+      "url": "https://github.com/StardockCorp/clairvoyance-releases/releases/download/v0.90.0/Clairvoyance-Setup-0.90.0-x64.exe",
+      "sha256": "c3639b5bd226c3fba06ac861c8ed9a018701dced3c278d4629486d2d03c7c9f5",
+      "size": 272621024
+    },
+    "linux-x64-appimage": {
+      "url": "https://github.com/StardockCorp/clairvoyance-releases/releases/download/v0.90.0/Clairvoyance-0.90.0.AppImage",
+      "sha256": "dfea5bda988160604ff188cc662830508043e0c75756e0578691eb5e012beb41",
+      "size": 180119037
+    },
+    "linux-x64-deb": {
+      "url": "https://github.com/StardockCorp/clairvoyance-releases/releases/download/v0.90.0/clairvoyance_0.90.0_amd64.deb",
+      "sha256": "9ed3da144a0797e65b8306a2d133a7f3d53bfb1280b686b855a418545a00e817",
+      "size": 181086972
+    }
+  }
 }
