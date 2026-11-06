@@ -1,0 +1,9 @@
+*.exe
+*.msi
+*.dmg
+*.AppImage
+*.deb
+*.blockmap
+*.zip
+.DS_Store
+Thumbs.db
